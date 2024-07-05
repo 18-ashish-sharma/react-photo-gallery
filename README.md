@@ -1,8 +1,4 @@
-﻿Here's an updated README file that incorporates the additional sections about creating a static app and generating a SAS token, along with your existing content.
-
----
-
-# Image Gallery Azure Blob Storage Educator Developer Blog Repository
+﻿# Image Gallery Azure Blob Storage
 
 ## What is Azure Blob Storage?
 
