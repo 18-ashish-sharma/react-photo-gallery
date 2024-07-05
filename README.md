@@ -27,8 +27,8 @@ Users or client applications can access objects in Blob Storage via HTTP/HTTPS, 
 
 2. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/wedding-website.git
-   cd wedding-website
+   git clone https://github.com/18-ashish-sharma/react-photo-gallery.git
+   cd react-photo-gallery
    ```
 
 3. **Update Environment Variables**:
